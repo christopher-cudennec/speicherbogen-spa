@@ -2,6 +2,8 @@
 
 Wohnprojekt „Am Speicherbogen“: Ein lüneburger wohnprojekt. Gemeinsam planen - gemeinsam bauen - gemeinsam wohnen.
 
+![Banner](img/banner-2.png)
+
 ## Aktuelles
 
 Ausgezeichnetes Wohnklima im Speicherbogen...
@@ -71,8 +73,8 @@ Seit Sommer 2019 ist der Speicherbogen bewohnt.
 
 # Die Gruppe
 
-![Die Gruppe 1](img/die-gruppe1.jpg)
-![Die Gruppe 2](img/die-gruppe2.jpg)
+![Die Gruppe 1](img/die-gruppe/image_01.jpg)
+![Die Gruppe 2](img/die-gruppe/image_02.jpg)
 
 ## ich bin im wohnprojekt...
 
@@ -100,9 +102,9 @@ Seit Sommer 2019 ist der Speicherbogen bewohnt.
 - Die Geschwindigkeit des Alltags passt zur Größe der Stadt. (Samuel)
 - Lüneburg verbindet Natur, Historisches, Kultur und hohe Lebensqualität. (Thomas)
 
-![Die Gruppe 3](img/die-gruppe3.jpg)
-![Die Gruppe 4](img/die-gruppe4.jpg)
-![Die Gruppe 5](img/die-gruppe5.jpg)
+![Die Gruppe 3](img/die-gruppe/image_03.jpg)
+![Die Gruppe 4](img/die-gruppe/image_04.jpg)
+![Die Gruppe 5](img/die-gruppe/image_05.jpg)
 
 ---
 
@@ -225,11 +227,21 @@ Noch ist Holzbau und noch mehr die Verwendung von Stroh als Dämmstoff ein Randt
 
 ---
 
+# Downloads
+
+- [Zeitungsartikel vom 11. November 2016](files/Artikel%20LZ.pdf)
+- [Artikel aus dem QUADRAT (10.2017)](files/quadrat_2017-10-1.pdf)
+- [Radio Zusa - Mitschnitt vom 27. März 2018](files/Radio%20Zusa%20-%20Mitschnitt%20Speicherbogen%20Wohnprojekt.mp3)
+- [LZ-Artikel vom 04. August 2018](files/Leuchtturm%20für%20ökologisches%20Bauen%20LZ%2004.08.18.pdf)
+- [Artikel im Winsener Anzeiger vom 16. August 2018](files/Winsener%20Anzeiger.pdf)
+
+---
+
 # Kontakt
 
 Bei uns gibt es momentan keine freien Wohnungen. ;)
 
-`**`speicherbogen-lueneburg ätt posteo.de`
+`speicherbogen-lueneburg ätt posteo.de`
 
 Wer Interesse an unserem Wohnprojekt oder Gebäude hat, ist herzlich eingeladen. Aber: Kontaktiert uns bitte vorher und verabredet euch mit uns. Lauft nicht einfach aufs Gelände. 
 

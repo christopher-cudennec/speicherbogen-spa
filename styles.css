@@ -102,42 +102,54 @@ main {
 }
 
 /* -------------------------------- */
-/* Header */
+/* Footer */
 /* -------------------------------- */
 
-header {
-  position: sticky;
-  top: 0;
+#page-footer {
 
-  background: rgba(247,247,245,0.88);
+  position: fixed;
 
-  backdrop-filter: blur(10px);
+  bottom: 24px;
+  right: 24px;
 
-  padding: 20px 28px;
+  z-index: 100;
 
-  border-bottom: 1px solid var(--border);
+  opacity: 0;
+  visibility: hidden;
 
-  z-index: 20;
+  transition:
+    opacity 0.25s ease,
+    visibility 0.25s ease;
 }
 
-#search {
-  width: 100%;
-  max-width: 420px;
+#page-footer.visible {
+  opacity: 1;
+  visibility: visible;
+}
 
-  padding: 12px 14px;
+#back-to-top {
+
+  display: inline-block;
+
+  padding: 12px 18px;
+
+  background: rgba(255,255,255,0.95);
 
   border: 1px solid var(--border);
-  border-radius: 12px;
 
-  background: white;
+  border-radius: 999px;
 
-  font-size: 0.95rem;
+  color: var(--text);
 
-  outline: none;
+  text-decoration: none;
+
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+
+  backdrop-filter: blur(10px);
 }
 
-#search:focus {
-  border-color: var(--accent);
+#back-to-top:hover {
+  background: white;
 }
 
 /* -------------------------------- */
