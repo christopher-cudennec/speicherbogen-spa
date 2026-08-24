@@ -30,6 +30,7 @@ Unser Wohnprojekt im Lüneburger Speicherquartier:
 - gebaut aus Holz, Stroh und Lehm
 - mitten in der Stadt
 - schnell im Grünen
+- barrierefrei
 
 ## Rückblick
 
