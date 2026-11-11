@@ -30,17 +30,17 @@ Unser Wohnprojekt im Lüneburger Speicherquartier:
 - gebaut aus Holz, Stroh und Lehm
 - mitten in der Stadt
 - schnell im Grünen
-- barrierefrei
+- barrierearm
 
 ## Rückblick
 
- BAUBEGINN war im November 2017. Der lange Winter hat die Erdarbeiten etwas hinausgezögert, aber im Frühjahr 2018 konnte endlich der Holzständerbau errichtet werden.
+BAUBEGINN war im November 2017. Der lange Winter hat die Erdarbeiten etwas hinausgezögert, aber im Frühjahr 2018 konnte endlich der Holzständerbau errichtet werden.
 
 Im Juni 2018 hat unsere fröhliche GRUNDHOLZLEGUNG stattgefunden: Wir haben den Beginn des Holzständerbaus mit einer ersten Baustellenbegehung incl. Sekt und dem Einbau einer "Zeitkapsel" in eine unserer Holzbauwände gefeiert. Die "Zeitkapsel" wurde mit guten Wünschen für unser Projekt, Gedichten, der aktuellen Tageszeitung sowie Erinnerungsstücken und einem USB-Stick mit diesem Webseiten-Inhalt bestückt und wird uns ab sofort und den Archäologen in der fernen Zukunft viel Freude bereiten.
 
 In den heißen Sommermonaten ging es dann mit dem Einbringen der Strohdämmung weiter, die Dächer wurden abgedichtet, und der Lehmputz wurde aufgebracht (siehe auch unser [Bautagebuch](#bautagebuch)).
 
-Im August 2018 haben wir RICHTFEST gefeiert! Der Richtspruch der Zimmerleute und einige Reden wurden musikalisch umrahmt von Live-Musik, und dann ging es ans bunt bestückte Buffett - von veganen Falafeln bis Leberkäs. Wir konnten hierfür schon unseren künftigen Gemeinschaftsraum nutzen und einen Vorgeschmack bekommen auf künftige Feiern und Veranstaltungen, die hier stattfinden werden... (für weitere Eindrücke vom Richtfest schaut doch mal in den Blog [ichbineinlueneburger](https://ichbineinlueneburger.blog/2018/08/16/wohnprojekt-am-speicherbogen-ein-urbanes-dorf-in-lueneburg/)).
+Im August 2018 haben wir RICHTFEST gefeiert! Der Richtspruch der Zimmerleute und einige Reden wurden musikalisch umrahmt von Live-Musik, und dann ging es ans bunt bestückte Buffett - von veganen Falafeln bis Leberkäs. Wir konnten hierfür schon unseren künftigen Gemeinschaftsraum nutzen und einen Vorgeschmack bekommen auf künftige Feiern und Veranstaltungen, die hier stattfinden werden...
 
 Gut geschützt unter Planen fand dann der Innenausbau und die Fassadengestaltung statt, so dass wir im Sommer 2019 einziehen und die Gebäude mit Leben füllen konnten. Und auch das Außengelände haben wir mittlerweile in mehreren Gemeinsachaftsaktionen gestaltet und bepflanzt. Auch wenn man im Grunde nie fertig wird - man könnte fast meinen, wir wohnten schon immer hier...
 
@@ -238,13 +238,26 @@ Noch ist Holzbau und noch mehr die Verwendung von Stroh als Dämmstoff ein Randt
 
 ---
 
-# Kontakt
+# Kontakt / Freie Wohnungen
 
-Bei uns gibt es momentan keine freien Wohnungen. ;)
-
-`speicherbogen-lueneburg ätt posteo.de`
+Ihr erreicht uns am besten per E-Mail an: `speicherbogen-lueneburg ätt posteo.de`
 
 Wer Interesse an unserem Wohnprojekt oder Gebäude hat, ist herzlich eingeladen. Aber: Kontaktiert uns bitte vorher und verabredet euch mit uns. Lauft nicht einfach aufs Gelände. 
+
+## Freie Wohnungen
+
+Wohnung 94 qm, 3 Zimmer (14/18/26 qm), abgeschlossene Küche (13 qm), Bad, Terrasse
+- Komplett **rollstuhlgerecht**: unterfahrbare Einbauküche & Waschbecken im Bad, ebenerdige Dusche 1,30 × 1,30 m, Anthrazit elegante Metallgriffe, schwellenloser Übergang zur Terrasse.
+- Smarthome: Rollo, Alarm, Heizung, Haustür mit Kamera – auch unterwegs steuerbar.
+- Gehobene Ausstattung: Vollholzparkett Eiche, Schallschutztür.
+- Terrasse (10 qm) und Keller (10 qm) inklusive.
+- Parkplatz
+
+Wir wünschen uns Menschen, die zu uns passen:
+- wir möchten uns gerne verjüngen und suchen daher Menschen U60
+- für diese Wohnung suchen wir am besten Menschen, die auf eine rollstuhlgerechte Wohnung angewiesen sind
+- ihr solltet Lust auf Wohnprojekt und gemeinschaftliches Wohnen haben
+- ihr solltet Lust haben, euch einzubringen: In unseren Arbeitsgemeinschaften, bei unserem ca. alle 4 Wochen stattfindenden Orga-Treffen, unseren Sonntagstreffen (5-6 Mal im Jahr), anderen Gemeinschaftsaktionen, ...
 
 ---
 
