@@ -244,7 +244,7 @@ Ihr erreicht uns am besten per E-Mail an: `speicherbogen-lueneburg ätt posteo.d
 
 Wer Interesse an unserem Wohnprojekt oder Gebäude hat, ist herzlich eingeladen. Aber: Kontaktiert uns bitte vorher und verabredet euch mit uns. Lauft nicht einfach aufs Gelände. 
 
-## Freie Wohnungen
+## Wohnung zum Verkauf
 
 Wohnung 94 qm, 3 Zimmer (14/18/26 qm), abgeschlossene Küche (13 qm), Bad, Terrasse
 - Komplett **rollstuhlgerecht**: unterfahrbare Einbauküche & Waschbecken im Bad, ebenerdige Dusche 1,30 × 1,30 m, Anthrazit elegante Metallgriffe, schwellenloser Übergang zur Terrasse.
